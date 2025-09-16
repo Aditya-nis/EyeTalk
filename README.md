@@ -68,3 +68,6 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 📜 License
 
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
+
+Images of Project
+![blink image](https://github.com/user-attachments/assets/c11a08af-d751-4b5e-b8c6-22bea6e886eb)
